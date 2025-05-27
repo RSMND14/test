@@ -7,3 +7,5 @@ Add Line
 new branch line >> file1.txt
 
 echo new branch line
+
+new line for GUI
